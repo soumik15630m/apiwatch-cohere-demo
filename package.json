@@ -1,0 +1,10 @@
+{
+  "name": "apiwatch-cohere-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal typed cohere-ai usage, used as the apiwatch Track A (Cohere) demo target.",
+  "type": "module",
+  "dependencies": {
+    "cohere-ai": "^8.1.0"
+  }
+}
